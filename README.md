@@ -3,8 +3,8 @@
 # * Instructions:
 
 # * Prompting Guidance:
-# * "Draft a public notice from the [Your State/City] Pollution Control Board."
-# * "Subject: Temporary Ban on Construction Activities due to Air Pollution."
-# * "Include: Date of implementation, duration (e.g., 7 days), reason (AQI exceeding hazardous levels), penalties for non-compliance, and contact information for queries."
-# * "Tone: Formal and authoritative."
-# * "Target audience: General public, construction companies."
+ * "Draft a public notice from the [Your State/City] Pollution Control Board."
+ * "Subject: Temporary Ban on Construction Activities due to Air Pollution."
+ * "Include: Date of implementation, duration (e.g., 7 days), reason (AQI exceeding hazardous levels), penalties for non-compliance, and contact information for queries."
+ * "Tone: Formal and authoritative."
+ * "Target audience: General public, construction companies."
