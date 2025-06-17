@@ -12,3 +12,10 @@ Act as an environmental compliance officer. Draft a formal regulatory notice to 
 - Deadline for compliance
 - Penalties for continued non-compliance
 
+
+Refinement:
+Ask ChatGPT to regenerate with:
+"Use official memo format"
+"Add recipient details"
+"Include annex with emission thresholds"
+
