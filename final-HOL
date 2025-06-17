@@ -24,3 +24,10 @@ Paste content and ask it to:
 Format as an official government circular
 Add table layout for dates, regions, contact officer
 
+#####################--With in julius----##########
+Analyze air quality data. Show:
+- Trend of PM2.5 and AQI over time
+- Top 5 most polluted locations
+- Days when air quality breached safe levels
+- Suggest policy actions based on trends
+
