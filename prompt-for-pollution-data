@@ -1,0 +1,28 @@
+Tasks to Perform:
+Filter Data for Bihar:
+
+Identify entries for cities in Bihar (e.g., Patna, Gaya, Muzaffarpur, Bhagalpur).
+
+Create a filtered dataset.
+
+Pollution Trend Analysis:
+
+Plot time-series of PM10 and NO2 for Patna.
+
+Identify peak months and seasons.
+
+Temperature and Humidity Correlation:
+
+Correlate PM10/NO2 levels with temperature and humidity in Patna.
+
+Identify conditions under which pollutant concentration spikes.
+
+Sensor Reliability Check:
+
+List top 3 most frequently reporting sensors in Bihar.
+
+Visualize consistency of sensor readings over time.
+
+Public Awareness Output:
+
+Based on your analysis, write 3 bullet points that could be used for public awareness campaigns in Bihar.
