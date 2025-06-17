@@ -5,3 +5,10 @@ Give teams a mock situation:
 "Detected high levels of NOx emission in Patna industrial area crossing CPCB threshold on June 15th, 2025."
 
 Prompt Engineering in ChatGPT:
+
+Act as an environmental compliance officer. Draft a formal regulatory notice to industries in Patna informing them about NOx emission breach on June 15, 2025. Include:
+- Data findings
+- Legal reference from CPCB guidelines
+- Deadline for compliance
+- Penalties for continued non-compliance
+
