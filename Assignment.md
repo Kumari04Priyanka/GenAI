@@ -46,3 +46,30 @@ Maintain a formal, authoritative, and clear tone. Ensure the language is easy fo
 * "Structure: Use numbered points or sections for clarity."
 * Emphasis on Iteration: Encourage groups to refine their prompts multiple times based on the initial output. Did the AI include all the specific points? Is the tone correct? Is it well-structured?
 * Sharing & Discussion: Have a few groups share their circulars and discuss the challenges faced in prompting for complex information and how they overcame them. Highlight how GenAI can handle detailed instructions.
+* 
+####################################################################################################################################################################
+## Solution:--
+Act as a senior officer from the [Your State/City Name] Pollution Control Board, drafting an official circular.
+
+Subject: Implementation of Revised Guidelines for Effluent Treatment and Discharge and Updated Reporting Format
+
+This circular is addressed to all registered industrial units operating within [Your State/City Name].
+
+Reference: Previous Circular No. PCB/[Year]/[Dummy Number] dated [Dummy Date, e.g., January 15, 2024], which this circular supersedes in relevant sections.
+
+Detail the following mandatory guidelines and requirements:
+1.  **Mandatory Upgrade of Effluent Treatment Plants (ETPs):** All industrial units must upgrade their ETPs to meet the new standards by **[Specific Date, e.g., December 31, 2025]**.
+2.  **New Permissible Discharge Limits:** Specify the revised limits for the following pollutants:
+    * Biological Oxygen Demand (BOD): Max [Specify Value] mg/L
+    * Chemical Oxygen Demand (COD): Max [Specify Value] mg/L
+    * Total Suspended Solids (TSS): Max [Specify Value] mg/L
+    * These limits are in accordance with the **[Name of Dummy Regulation/Standard, e.g., Environmental (Protection) (Amendment) Rules, 2025]**.
+3.  **Revised Monthly Compliance Reporting:**
+    * Units are now required to submit monthly effluent quality monitoring reports.
+    * **The reporting format has been updated.** Refer to the **"New Effluent Discharge Report Format - Annexure A"** (which will be provided separately) for detailed instructions and data fields.
+    * Reports must be submitted digitally via the PCB's online portal by the **5th of every succeeding month**.
+4.  **Inspections and Enforcement:**
+    * The Board will conduct unannounced inspections to verify compliance with these new guidelines.
+    * Strict legal action, including penalties, plant closure, and prosecution under relevant environmental laws ([Refer to a dummy act, e.g., The Water (Prevention and Control of Pollution) Act, 1974]), will be initiated against non-compliant units.
+
+Ensure a clear, directive, and official tone. Structure the content using numbered points for readability and ease of understanding for industrial units.
